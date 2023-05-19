@@ -1,0 +1,9 @@
+* float-features
+
+Portability library for IEEE float features that are not covered by the CL standard.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/Shinmera/float-features.git |
+| commit  | 0968497                                            |
+| systems | float-features                                     |
+|---------+----------------------------------------------------|
