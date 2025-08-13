@@ -4,6 +4,6 @@ Portability library for IEEE float features that are not covered by the CL stand
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/Shinmera/float-features.git |
-| commit  | 83e378f                                            |
+| commit  | cd5dab0                                            |
 | systems | float-features                                     |
 |---------+----------------------------------------------------|
